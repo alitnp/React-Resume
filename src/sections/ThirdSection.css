@@ -9,15 +9,21 @@
 	flex-direction: column;
 	justify-content: center;
 	align-items: center;
-	box-sizing: content-box;
-	padding-top: 50px;
+	box-sizing: border-box;
+	padding-top: 0px;
 }
 .card-holder {
 	display: flex;
 	justify-content: center;
-	max-width: 70%;
+	max-width: 80%;
 	flex-wrap: wrap;
 	margin-bottom: 25px;
+}
+@media only screen and (max-width: 770px) {
+	.third-section {
+		padding-top: 50px;
+		justify-content: start;
+	}
 }
 @media only screen and (max-width: 600px) {
 	.third-section {
@@ -26,5 +32,4 @@
 }
 .arrow {
 	width: 30px;
-	margin-top: 5px;
 }
