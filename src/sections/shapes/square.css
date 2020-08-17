@@ -1,0 +1,24 @@
+:root {
+	--yellow: #ffdb35;
+	--black: #3f3b37;
+}
+.square {
+	width: 100px;
+	height: 100px;
+	background-color: var(--yellow);
+	position: relative;
+}
+.black-square {
+	box-sizing: border-box;
+	position: absolute;
+	width: 100px;
+	height: 100px;
+	background-color: var(--black);
+	top: 10px;
+	left: 10px;
+	white-space: nowrap;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	padding-left: 15px;
+}

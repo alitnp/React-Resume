@@ -1,0 +1,57 @@
+.card {
+    position: relative;
+    width: 120px;
+    height: 180px;
+    margin: 15px;
+    flex-shrink: 0;
+    border-radius: 5px;
+}
+.hover-card {
+    background-color: #3f3b37;
+    position: absolute;
+    width: 120px;
+    height: 160px;
+    animation-name: animation2;
+    animation-duration: 0.3s;
+    animation-fill-mode: forwards;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.hover-card:hover {
+    animation-name: animation;
+    animation-duration: 0.3s;
+    animation-fill-mode: forwards;
+}
+@keyframes animation {
+    from {
+        top: 0;
+        left: 0;
+        box-shadow: 0 0px 0px 0px #3f3b3748;
+    }
+    to {
+        top: 10px;
+        left: 10px;
+        box-shadow: 0 10px 10px 2px #3f3b3748;
+    }
+}
+@keyframes animation2 {
+    from {
+        top: 10px;
+        left: 10px;
+        box-shadow: 0 10px 10px 2px #3f3b3748;
+    }
+    to {
+        top: 0;
+        left: 0;
+        box-shadow: 0 0px 0px 0px #3f3b3748;
+    }
+}
+.logo {
+    width: 70%;
+}
+span {
+    font-weight: bold;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}

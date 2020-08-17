@@ -1,0 +1,30 @@
+.third-section {
+	min-height: 100vh;
+	width: 100wh;
+	background-color: white;
+	color: black;
+	position: relative;
+	box-sizing: border-box;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	box-sizing: content-box;
+	padding-top: 50px;
+}
+.card-holder {
+	display: flex;
+	justify-content: center;
+	max-width: 70%;
+	flex-wrap: wrap;
+	margin-bottom: 25px;
+}
+@media only screen and (max-width: 600px) {
+	.third-section {
+		justify-content: start;
+	}
+}
+.arrow {
+	width: 30px;
+	margin-top: 5px;
+}

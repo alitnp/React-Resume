@@ -1,0 +1,13 @@
+.side-rectangle {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	width: 30px;
+	height: 40vh;
+	background-color: red;
+	position: absolute;
+	border-top-left-radius: 0;
+	border-top-right-radius: 0;
+	border-bottom-right-radius: 0;
+	border-bottom-left-radius: 0;
+}

@@ -1,0 +1,21 @@
+{
+	"Colors": {
+		"black": "#3f3b37",
+		"yellow": "#ffdb35",
+		"mainColor": "#ffdb35"
+	},
+	"Navigator": {
+		"about": "About",
+		"skills": "Skills"
+	},
+	"FirstSection": {
+		"title": "Hello, I'm Ali",
+		"subtitle": "Full Stack Dev",
+		"subtitle2": "Who Loves to Code"
+	},
+	"SecondSection": {
+		"title": "About Me",
+		"subtitle": "A Front-End and UI/UX designing lover",
+		"paragraph": "I'm a CEO in a small mobile app development Company named T.N.P (Tadarok Narmafzar Paytakht). We have a pro-team of thirteen developers in every programming category."
+	}
+}
