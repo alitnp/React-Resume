@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/react-resume/static/css/main.6389087d.chunk.css",
+    "main.js": "/react-resume/static/js/main.a9430120.chunk.js",
+    "main.js.map": "/react-resume/static/js/main.a9430120.chunk.js.map",
+    "runtime-main.js": "/react-resume/static/js/runtime-main.623af3ea.js",
+    "runtime-main.js.map": "/react-resume/static/js/runtime-main.623af3ea.js.map",
+    "static/js/2.3b131e4f.chunk.js": "/react-resume/static/js/2.3b131e4f.chunk.js",
+    "static/js/2.3b131e4f.chunk.js.map": "/react-resume/static/js/2.3b131e4f.chunk.js.map",
+    "index.html": "/react-resume/index.html",
+    "precache-manifest.fba3601df0af3501c19b9a62d678f42a.js": "/react-resume/precache-manifest.fba3601df0af3501c19b9a62d678f42a.js",
+    "service-worker.js": "/react-resume/service-worker.js",
+    "static/css/main.6389087d.chunk.css.map": "/react-resume/static/css/main.6389087d.chunk.css.map",
+    "static/js/2.3b131e4f.chunk.js.LICENSE.txt": "/react-resume/static/js/2.3b131e4f.chunk.js.LICENSE.txt",
+    "static/media/csharp.svg": "/react-resume/static/media/csharp.ac5f106c.svg",
+    "static/media/css.svg": "/react-resume/static/media/css.47bba155.svg",
+    "static/media/dart.svg": "/react-resume/static/media/dart.45b942bf.svg",
+    "static/media/flutter.svg": "/react-resume/static/media/flutter.09ef4e23.svg",
+    "static/media/html5.jpg": "/react-resume/static/media/html5.0ccffb5f.jpg",
+    "static/media/html5.svg": "/react-resume/static/media/html5.c8fde740.svg",
+    "static/media/javascript.svg": "/react-resume/static/media/javascript.579211df.svg",
+    "static/media/react.svg": "/react-resume/static/media/react.67cd350b.svg",
+    "static/media/sql.svg": "/react-resume/static/media/sql.6fab8362.svg",
+    "static/media/theme.png": "/react-resume/static/media/theme.d425f017.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.623af3ea.js",
+    "static/js/2.3b131e4f.chunk.js",
+    "static/css/main.6389087d.chunk.css",
+    "static/js/main.a9430120.chunk.js"
+  ]
+}
